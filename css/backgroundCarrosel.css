@@ -1,0 +1,111 @@
+.background-carousel1{
+    background-image: url(../img/falcon9/03.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+.background-carousel2{
+    background-image: url(../img/falcon9/04.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+.background-carousel3{
+    background-image: url(../img/falcon9/05.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+.background-carousel4{
+    background-image: url(../img/falcon9/06.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+.background-carousel5{
+    background-image: url(../img/falcon9/07.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+.background-carousel6{
+    background-image: url(../img/falcon9/09.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+.background-carousel7{
+    background-image: url(../img/falcon9/10.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+.background-carousel8{
+    background-image: url(../img/falcon9/11.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+.background-carousel9{
+    background-image: url(../img/falcon9/12.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+.background-carousel10{
+    background-image: url(../img/falcon9/13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+.background-carousel11{
+    background-image: url(../img/falcon9/14.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+@media(max-width: 590px){
+    .background-carousel1{
+       background-position: 50%;
+    }
+    .background-carousel2{
+        background-position: 50%
+    }
+    .background-carousel3{
+        background-position: 50%
+    }
+    .background-carousel4{
+        background-position: 50%
+    }
+    .background-carousel5{
+        background-position: 50%
+    }
+}
+@media(max-width: 410){
+    .background-carousel1{
+       background-position: 30%;
+    }
+    .background-carousel2{
+        background-position: 30%
+    }
+    .background-carousel3{
+        background-position: 30%
+    }
+    .background-carousel4{
+        background-position: 30%
+    }
+    .background-carousel5{
+        background-position: 30%
+    }
+}

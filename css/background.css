@@ -1,0 +1,104 @@
+
+.section-1{
+    background-image: url(../img/home/01.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+.section-2{
+    background-image: url(../img/home/03.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    padding-top: 250px;
+}
+.section-3{
+    background-image: url(../img/home/02.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    padding-top: 250px;
+}
+.section-4{
+    background-image: url(../img/home/04.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    padding-top: 250px;
+}
+.section-1-falcon9{
+    background-image: url(../img/falcon9/01.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+.section-2-falcon9{
+    background-image: url(../img/falcon9/02.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+.section-3-falcon9{
+    background-image: url(../img/falcon9/08.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+.section-4-falcon9{
+    background-color: black;
+    height: 100vh;
+    color: white;
+}
+.section-1-human{
+    background-image: url(../img/humanFlight/01.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+.section-2-human{
+    background-image: url(../img/humanFlight/02.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110vh;
+    color: white;
+}
+.section-3-human{
+    background-image: url(../img/humanFlight/03.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110vh;
+    color: white;
+}
+.section-4-human{
+    background-image: url(../img/humanFlight/04.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110vh;
+    color: white;
+}
+.section-5-human{
+    background-image: url(../img/humanFlight/05.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110vh;
+    color: white;
+}
+@media(max-width: 590px){
+    .section-1-falcon9{
+       background-position: 100%;
+    }
+    .section-2-falcon9{
+        background-position: 50%
+    }
+    .section-3-falcon9{
+        background-position: 50%
+    }
+}

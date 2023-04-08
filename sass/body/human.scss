@@ -1,0 +1,123 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  .subsectionDiv {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+  }
+  
+  .subsectionDiv div {
+    display: flex;
+    gap: 15px;
+  }
+  
+  .ancor {
+    color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+  }
+  .ancor:hover {
+    color: #e94444;
+  }
+  
+  .vooComercial {
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 20px;
+  }
+  
+  .title-container {
+    text-align: center;
+    margin-top: 20%;
+  }
+  
+  .title-text1 {
+    font-size: 60px;
+  }
+  
+  .arrowDown {
+    width: 150px;
+  }
+  
+  .arrowDownDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .main-content-human-dir {
+    text-align: right;
+    padding-top: 23%;
+    padding-left: 55%;
+    display: flex;
+    align-items: first baseline;
+    flex-direction: column;
+  }
+  
+  .main-content-human-es {
+    text-align: right;
+    padding-top: 23%;
+    padding-left: 5%;
+    display: flex;
+    align-items: first baseline;
+    flex-direction: column;
+  }
+  
+  .title-missao {
+    font-size: 25px;
+  }
+  
+  .sub-missao {
+    font-size: 50px;
+  }
+  
+  .description-missao {
+    font-size: 20px;
+  }
+  
+  .btn1 {
+    font-size: 30px;
+    width: 200px;
+    height: 80px;
+    border-radius: 5px;
+    background-color: transparent;
+    color: white;
+    border: white 2px solid;
+    transition: 0.4s;
+  }
+  
+  .btn1:hover {
+    color: black;
+    background-color: white;
+  }
+  
+  footer {
+    background-color: black;
+    color: white;
+    padding-top: 20%;
+  }
+  
+  .footer-background {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 18%;
+  }
+  
+  .footerDiv {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-size: 15px;
+    padding: 40px;
+    padding-bottom: 15px;
+  }
+  
